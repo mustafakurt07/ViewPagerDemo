@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelDemo</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="Favori">Favori</string>
+    <string name="helloKurt">Hello Kurt</string>
+    <string name="neresi">Where we are</string>
+    <string name="going">Going Today?</string>
+</resources>
